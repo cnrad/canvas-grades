@@ -2,7 +2,7 @@ import requests
 import json
 
 # token = input("Please enter your Canvas token here: ")
-token = "1676~KHkorjbUw1C4sC7pQEZgFW2MNWIEOb4oKxufkplGVddZlBBC34cGDYtOrRh0eh9A"
+token = ""
 
 print("Fetching grades...")
 
